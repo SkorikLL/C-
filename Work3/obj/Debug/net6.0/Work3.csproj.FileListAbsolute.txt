@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/bin/Debug/net6.0/Work3
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/bin/Debug/net6.0/Work3.deps.json
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/bin/Debug/net6.0/Work3.runtimeconfig.json
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/bin/Debug/net6.0/Work3.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/bin/Debug/net6.0/Work3.pdb
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.AssemblyInfo.cs
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/refint/Work3.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.pdb
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/Work3.genruntimeconfig.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work3/obj/Debug/net6.0/ref/Work3.dll

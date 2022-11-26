@@ -94,7 +94,7 @@ void Zadacha15 ()
 }
 Console.Clear();
 
-//Zadacha10 ();
-//Zadacha13VarianString ();
-//Zadacha13Varian2 ();
+Zadacha10 ();
+Zadacha13VarianString ();
+Zadacha13Varian2 ();
 Zadacha15 ();
