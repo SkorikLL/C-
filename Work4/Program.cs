@@ -1,38 +1,38 @@
-﻿// // Задача 25: Используя определение степени числа, напишите цикл, который принимает на вход два натуральных числа (A и B) и возводит число A в степень B.
-// void Zadacha25 ()
-// {
-//     Random rand = new Random ();
-//     int randomNumber = rand.Next (1, 10);
-//     int randomPower = rand.Next (1, 5);
-//     Console.WriteLine("Задача 25: Используя определение степени числа, напишите цикл, который принимает на вход два натуральных числа (A и B) и возводит число A в степень B.");
-//    //Без цикла double result = Math.Pow (randomNumber, randomPower);
-//    int result = randomNumber;
-//     for (int i = 1; randomPower > i; i++)
-//     {
-//         result=randomNumber*result;
-//     }
-//     Console.WriteLine($" {randomNumber}^{randomPower} = {result}");
-// }
+﻿// Задача 25: Используя определение степени числа, напишите цикл, который принимает на вход два натуральных числа (A и B) и возводит число A в степень B.
+void Zadacha25 ()
+{
+    Random rand = new Random ();
+    int randomNumber = rand.Next (1, 10);
+    int randomPower = rand.Next (1, 5);
+    Console.WriteLine("Задача 25: Используя определение степени числа, напишите цикл, который принимает на вход два натуральных числа (A и B) и возводит число A в степень B.");
+   //Без цикла double result = Math.Pow (randomNumber, randomPower);
+   int result = randomNumber;
+    for (int i = 1; randomPower > i; i++)
+    {
+        result=randomNumber*result;
+    }
+    Console.WriteLine($" {randomNumber}^{randomPower} = {result}");
+}
 
-// // Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
-// void Zadacha27 ()
-// {
-//     Random rand = new Random ();
-//     int randomNumber = rand.Next (1, 1000);
-//     Console.WriteLine("Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.");
+// Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+void Zadacha27 ()
+{
+    Random rand = new Random ();
+    int randomNumber = rand.Next (1, 1000);
+    Console.WriteLine("Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.");
 
-//     int result = 0;
-//     int remainder = 0;
-//     int number = randomNumber;
-//     while (number > 0)
-//     {
-//         remainder = number % 10;
-//         result = result + remainder; 
-//         number = number / 10;
-//     }
-//     Console.WriteLine($" Введенное число {randomNumber}, сумма цифр в числе: {result}");
+    int result = 0;
+    int remainder = 0;
+    int number = randomNumber;
+    while (number > 0)
+    {
+        remainder = number % 10;
+        result = result + remainder; 
+        number = number / 10;
+    }
+    Console.WriteLine($" Введенное число {randomNumber}, сумма цифр в числе: {result}");
 
-// }
+}
 
 void PrintArray (int[] nums)
 {
