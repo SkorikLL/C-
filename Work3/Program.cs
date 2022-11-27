@@ -67,5 +67,5 @@ Console.Clear();
 
 //Zadacha19 ();
 //Zadacha21 ();
-Zadacha22 ();
+//Zadacha22 ();
 
