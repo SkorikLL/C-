@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/bin/Debug/net6.0/Work7
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/bin/Debug/net6.0/Work7.deps.json
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/bin/Debug/net6.0/Work7.runtimeconfig.json
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/bin/Debug/net6.0/Work7.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/bin/Debug/net6.0/Work7.pdb
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.AssemblyInfo.cs
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/refint/Work7.dll
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.pdb
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/Work7.genruntimeconfig.cache
+/Users/admin/Desktop/Разработчик/Знакомство с языками програмитрования С#/С#/Work7/obj/Debug/net6.0/ref/Work7.dll
